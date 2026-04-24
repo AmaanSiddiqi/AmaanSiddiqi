@@ -9,7 +9,7 @@ I build things that learn, scale, and occasionally work on the first try.
 Currently exploring multi-agent systems, LiDAR-based ML, and whatever seems interesting next.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amaansiddiqi.me-black?style=flat-square&logo=safari&logoColor=white)](https://amaansiddiqi.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-siddiqi-38b7021b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-siddiqi-38b7021b0/)
 [![Email](https://img.shields.io/badge/Email-amaansiddiqi2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amaansiddiqi2@gmail.com)
 
 </div>
@@ -52,8 +52,6 @@ Microservices backend + GPU inference pipeline for real-time pose analysis at 17
 
 <div align="center">
 
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmaanSiddiqi&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=555555&icon_color=000000)
-&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSiddiqi&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=555555)
 
 </div>
